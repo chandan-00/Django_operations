@@ -1,3 +1,1 @@
-# PycharmProjects
-
-An app for making To-Do lists has been created using django
+This project is a Django-based web application designed for creating and managing To-Do lists. It allows users to add, update, and organize tasks efficiently through an intuitive interface.
